@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.970bd1ca.chunk.js",
-    "main.js.map": "/static/js/main.970bd1ca.chunk.js.map",
+    "main.js": "/static/js/main.f15135f8.chunk.js",
+    "main.js.map": "/static/js/main.f15135f8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5fd185e6.js",
     "runtime-main.js.map": "/static/js/runtime-main.5fd185e6.js.map",
-    "static/js/2.07872b8a.chunk.js": "/static/js/2.07872b8a.chunk.js",
-    "static/js/2.07872b8a.chunk.js.map": "/static/js/2.07872b8a.chunk.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4af171f1.chunk.js": "/static/js/2.4af171f1.chunk.js",
+    "static/js/2.4af171f1.chunk.js.map": "/static/js/2.4af171f1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.910c2d2266f0d622c428538562e93866.js": "/precache-manifest.910c2d2266f0d622c428538562e93866.js",
+    "precache-manifest.491e716ed6b29392f9c18e9b0543082a.js": "/precache-manifest.491e716ed6b29392f9c18e9b0543082a.js",
     "service-worker.js": "/service-worker.js",
-    "static/js/2.07872b8a.chunk.js.LICENSE.txt": "/static/js/2.07872b8a.chunk.js.LICENSE.txt",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.4af171f1.chunk.js.LICENSE.txt": "/static/js/2.4af171f1.chunk.js.LICENSE.txt",
     "static/media/bg-img1.jpg": "/static/media/bg-img1.ed90f07f.jpg",
     "static/media/contact.svg": "/static/media/contact.9f5a572d.svg",
     "static/media/detail-no-color.svg": "/static/media/detail-no-color.09ab0a05.svg",
@@ -17,11 +19,13 @@
     "static/media/easy-cooking.png": "/static/media/easy-cooking.a6b87493.png",
     "static/media/escape-the-bees.png": "/static/media/escape-the-bees.adfa3b3f.png",
     "static/media/imdb-clone.png": "/static/media/imdb-clone.dee8de6d.png",
-    "static/media/portfolio.png": "/static/media/portfolio.df11f548.png"
+    "static/media/portfolio.png": "/static/media/portfolio.e6054841.png",
+    "static/media/speed-typing.png": "/static/media/speed-typing.cf7c2010.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5fd185e6.js",
-    "static/js/2.07872b8a.chunk.js",
-    "static/js/main.970bd1ca.chunk.js"
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.4af171f1.chunk.js",
+    "static/js/main.f15135f8.chunk.js"
   ]
 }
