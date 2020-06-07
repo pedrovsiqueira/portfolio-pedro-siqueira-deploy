@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.js": "/static/js/main.94afe05b.chunk.js",
-    "main.js.map": "/static/js/main.94afe05b.chunk.js.map",
+    "main.js": "/static/js/main.9b4e77c8.chunk.js",
+    "main.js.map": "/static/js/main.9b4e77c8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5fd185e6.js",
     "runtime-main.js.map": "/static/js/runtime-main.5fd185e6.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
     "static/js/2.c0285ddb.chunk.js": "/static/js/2.c0285ddb.chunk.js",
     "static/js/2.c0285ddb.chunk.js.map": "/static/js/2.c0285ddb.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.55d7c1822890f8b9fb0dcf106e5cdf57.js": "/precache-manifest.55d7c1822890f8b9fb0dcf106e5cdf57.js",
+    "precache-manifest.0f8bf8354e74744b61a732e4f9d7faf6.js": "/precache-manifest.0f8bf8354e74744b61a732e4f9d7faf6.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
     "static/js/2.c0285ddb.chunk.js.LICENSE.txt": "/static/js/2.c0285ddb.chunk.js.LICENSE.txt",
+    "static/media/Divider_Azul.svg": "/static/media/Divider_Azul.20ee4ddb.svg",
+    "static/media/Divider_cinza.svg": "/static/media/Divider_cinza.abcbf0de.svg",
     "static/media/Icone_bola fut am.svg": "/static/media/Icone_bola fut am.c54b7613.svg",
     "static/media/Icone_codar.svg": "/static/media/Icone_codar.776fe5ad.svg",
     "static/media/Icone_livro.svg": "/static/media/Icone_livro.8790f2fe.svg",
     "static/media/Icone_monitor.svg": "/static/media/Icone_monitor.919ae09f.svg",
     "static/media/bg-img1.jpg": "/static/media/bg-img1.ed90f07f.jpg",
     "static/media/contact.svg": "/static/media/contact.9f5a572d.svg",
-    "static/media/detail-no-color.svg": "/static/media/detail-no-color.09ab0a05.svg",
-    "static/media/detail.svg": "/static/media/detail.79b3ae0b.svg",
     "static/media/easy-cooking.png": "/static/media/easy-cooking.a6b87493.png",
     "static/media/escape-the-bees.png": "/static/media/escape-the-bees.adfa3b3f.png",
     "static/media/imdb-clone.png": "/static/media/imdb-clone.dee8de6d.png",
@@ -31,6 +31,6 @@
     "static/js/runtime-main.5fd185e6.js",
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.c0285ddb.chunk.js",
-    "static/js/main.94afe05b.chunk.js"
+    "static/js/main.9b4e77c8.chunk.js"
   ]
 }
