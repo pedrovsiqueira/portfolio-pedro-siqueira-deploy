@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b28886a95a41c4d63c5b6d2d9f31fab2",
+    "revision": "a3bf2fa170440a98e8671083100b79b2",
     "url": "/index.html"
   },
   {
@@ -16,12 +16,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.c0285ddb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "29101949f1f42603db23",
-    "url": "/static/js/main.403c86e2.chunk.js"
+    "revision": "95ccc9c9318fef983f5a",
+    "url": "/static/js/main.94afe05b.chunk.js"
   },
   {
     "revision": "1b38fca9bf311d395595",
     "url": "/static/js/runtime-main.5fd185e6.js"
+  },
+  {
+    "revision": "c54b761306878a2c317b3cc0bbb54edc",
+    "url": "/static/media/Icone_bola fut am.c54b7613.svg"
+  },
+  {
+    "revision": "776fe5ad9d87b3dac4285e162b62e8d5",
+    "url": "/static/media/Icone_codar.776fe5ad.svg"
+  },
+  {
+    "revision": "8790f2fecb837015bdf75936844ec09d",
+    "url": "/static/media/Icone_livro.8790f2fe.svg"
+  },
+  {
+    "revision": "919ae09f721e9fe5d7bd2df9b3679a79",
+    "url": "/static/media/Icone_monitor.919ae09f.svg"
   },
   {
     "revision": "ed90f07f2719bd29c0930bab02bca77e",
