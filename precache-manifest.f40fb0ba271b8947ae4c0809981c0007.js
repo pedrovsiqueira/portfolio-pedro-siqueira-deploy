@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c8b8c7bef618e57dee1e2d54da7885f1",
+    "revision": "a105f900f4c458781bcd38b15d537bbe",
     "url": "/index.html"
   },
   {
-    "revision": "ee66a23cd835376b123b",
+    "revision": "dcf3e4bec5d017bd68d8",
     "url": "/static/css/2.0c8fc136.chunk.css"
   },
   {
-    "revision": "ee66a23cd835376b123b",
-    "url": "/static/js/2.73de7915.chunk.js"
+    "revision": "dcf3e4bec5d017bd68d8",
+    "url": "/static/js/2.af219be9.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.73de7915.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.af219be9.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91d343b975e2592a13de",
-    "url": "/static/js/main.b4c42683.chunk.js"
+    "revision": "ae52a6794112bf97c7ba",
+    "url": "/static/js/main.6b064b67.chunk.js"
   },
   {
     "revision": "65eda8f1239217453b02",
@@ -60,8 +60,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/bg-img1.ed90f07f.jpg"
   },
   {
-    "revision": "9f5a572da46a14e47af7d0dd70e0832f",
-    "url": "/static/media/contact.9f5a572d.svg"
+    "revision": "7c80b512849eccc5af38ead8cebf0b41",
+    "url": "/static/media/calculator.7c80b512.png"
   },
   {
     "revision": "a6b874935afafc4eae081a298a9a4cb0",

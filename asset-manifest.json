@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "/static/js/main.b4c42683.chunk.js",
-    "main.js.map": "/static/js/main.b4c42683.chunk.js.map",
+    "main.js": "/static/js/main.6b064b67.chunk.js",
+    "main.js.map": "/static/js/main.6b064b67.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.383c7310.js",
     "runtime-main.js.map": "/static/js/runtime-main.383c7310.js.map",
     "static/css/2.0c8fc136.chunk.css": "/static/css/2.0c8fc136.chunk.css",
-    "static/js/2.73de7915.chunk.js": "/static/js/2.73de7915.chunk.js",
-    "static/js/2.73de7915.chunk.js.map": "/static/js/2.73de7915.chunk.js.map",
+    "static/js/2.af219be9.chunk.js": "/static/js/2.af219be9.chunk.js",
+    "static/js/2.af219be9.chunk.js.map": "/static/js/2.af219be9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ce058e0424a70b65259a200af01a20ac.js": "/precache-manifest.ce058e0424a70b65259a200af01a20ac.js",
+    "precache-manifest.f40fb0ba271b8947ae4c0809981c0007.js": "/precache-manifest.f40fb0ba271b8947ae4c0809981c0007.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.0c8fc136.chunk.css.map": "/static/css/2.0c8fc136.chunk.css.map",
-    "static/js/2.73de7915.chunk.js.LICENSE.txt": "/static/js/2.73de7915.chunk.js.LICENSE.txt",
+    "static/js/2.af219be9.chunk.js.LICENSE.txt": "/static/js/2.af219be9.chunk.js.LICENSE.txt",
     "static/media/Divider_Azul.svg": "/static/media/Divider_Azul.20ee4ddb.svg",
     "static/media/Divider_bola.svg": "/static/media/Divider_bola.aecfe611.svg",
     "static/media/Divider_cinza.svg": "/static/media/Divider_cinza.abcbf0de.svg",
@@ -21,7 +21,7 @@
     "static/media/Icone_livro.svg": "/static/media/Icone_livro.8790f2fe.svg",
     "static/media/Icone_monitor.svg": "/static/media/Icone_monitor.919ae09f.svg",
     "static/media/bg-img1.jpg": "/static/media/bg-img1.ed90f07f.jpg",
-    "static/media/contact.svg": "/static/media/contact.9f5a572d.svg",
+    "static/media/calculator.png": "/static/media/calculator.7c80b512.png",
     "static/media/easy-cooking.png": "/static/media/easy-cooking.a6b87493.png",
     "static/media/escape-the-bees.png": "/static/media/escape-the-bees.adfa3b3f.png",
     "static/media/imdb-clone.png": "/static/media/imdb-clone.dee8de6d.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.383c7310.js",
     "static/css/2.0c8fc136.chunk.css",
-    "static/js/2.73de7915.chunk.js",
-    "static/js/main.b4c42683.chunk.js"
+    "static/js/2.af219be9.chunk.js",
+    "static/js/main.6b064b67.chunk.js"
   ]
 }
